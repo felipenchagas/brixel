@@ -1,0 +1,88 @@
+🔧 Instruções Técnicas
+NÃO FAZER: (use  limit=100000 , para ler arquivos maiores)
+
+❌ Não apagar nenhuma <div>
+
+❌ Não alterar nenhum id
+
+❌ Não remover ou alterar links de .css ou .js
+
+❌ Não interferir em classes nem estruturas de layout
+
+PODE E DEVE FAZER:
+
+✅ Editar textos e conteúdos internos livremente para SEO
+
+✅ Inserir palavras-chave nos títulos, menus e seções
+
+✅ Ajustar atributos alt, title, aria-label de imagens e links
+
+✅ Adicionar ancoragens internas para outras páginas
+
+✅ Criar seção de Perguntas e Respostas (FAQ) no final da página
+
+✅ Adicionar @schema do tipo FAQPage no <head>
+
+🏷️ Palavras-chave a serem usadas
+Principais Keywords:
+
+Calgary painters
+
+Painting services Calgary
+
+House painters Calgary
+
+Residential painting Calgary
+
+Commercial painting Calgary
+
+Interior painting Calgary
+
+Exterior painting Calgary
+
+Serviços Específicos:
+
+Cabinet painting Calgary
+
+Garage painting Calgary
+
+Ceiling texturing Calgary
+
+Drywall repair Calgary
+
+Wallpaper removal Calgary
+
+Stucco application Calgary
+
+Popcorn ceiling removal Calgary
+
+Long-Tail Keywords:
+
+Best house painters in Calgary
+
+Professional painting contractors Calgary
+
+Calgary painting company reviews
+
+Affordable painting services Calgary
+
+Calgary painters near me
+
+Residential painting contractors NW Calgary
+
+Segmentação Regional:
+
+Painters in Calgary
+
+Painters NW/SW/NE/SE Calgary
+
+📦 Resultados Esperados no index.html
+Melhor SEO local e técnico com uso estratégico das palavras-chave.
+
+Textos mais descritivos e únicos sobre a empresa e seus diferenciais.
+
+Estrutura de conteúdo enriquecida com ancoragens internas.
+
+Seção de FAQ no final, com perguntas reais que clientes fariam.
+
+Marcação JSON-LD FAQPage no <head> para melhorar o SEO em rich snippets.
